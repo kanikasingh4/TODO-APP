@@ -1,0 +1,10 @@
+.todoheading{
+    font-size: 48px;
+   padding-top: 15px;
+    font-weight: 700;
+    background: linear-gradient(to right,hsl(0, 0%, 0%) 0%,  rgb(192, 255, 231) 50%,#000000 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    margin-bottom: 150px;
+    
+  }

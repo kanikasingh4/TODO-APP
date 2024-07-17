@@ -1,0 +1,54 @@
+
+.newbtn{
+  width: 80px;
+ 
+}
+.row{
+
+margin-bottom: 5px;
+padding: 10px;
+
+}
+input{
+  width: 85%;
+  padding: 5px;
+ border: transparent;
+ background-color:  rgb(210, 255, 238) ;
+  border-radius: 5px;
+}
+
+.newrow{
+
+  border: transparent;
+  height: 75px;
+
+  background: linear-gradient(to right,hsl(0, 0%, 0%) 0%,  rgb(192, 255, 231) 50%,#000000 100%);
+  color: black;
+  width: 80%;
+  border-radius: 10px;
+  padding: 20px;
+}
+.createdrow{
+color: rgb(255, 255, 255);
+
+  font-size: 23px;
+  font-weight: 600;
+ padding-top: 4px;
+  text-transform: capitalize;
+  
+}
+.todo-container{
+  background-color:black;
+   height: 100vh; 
+  width:100vw ;
+  
+}
+.msg{
+  color: white;
+margin-top: 20px;
+ font-style: italic;
+  
+  font-size: 40PX;
+
+
+}

@@ -1,0 +1,8 @@
+.itemscontainer {
+  background: linear-gradient(to right,hsl(0, 0%, 0%) 0%,  rgb(192, 255, 231) 50%,#000000 100%);
+    color: rgb(255, 255, 255);
+    margin: 50px;
+    padding: 10px;
+    border-radius: 10px;
+   
+  }
